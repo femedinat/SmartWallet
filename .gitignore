@@ -1,0 +1,7 @@
+# IDE e Maven
+.idea/
+*.iml
+target/
+
+# Arquivos sensíveis
+**/ConnectionManager.java
